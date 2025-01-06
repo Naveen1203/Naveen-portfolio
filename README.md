@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Naveen Reddy Tumu
 
-![Naveen Reddy Tumu](path/to/your-image.jpg)
+![Naveen Reddy Tumu](images/Tumu, Naveen Reddy  2-24.jpg)
 
 ---
 
