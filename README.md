@@ -24,7 +24,7 @@ I hold a **Master of Science in Computer Science** from Wright State University,
 ## 🔬 Technical Projects
 
 ### [Stock Market Data Pipeline](https://github.com/your-github/stock-market-data-pipeline)
-![Stock Market Project](path/to/stock-market-image.jpg)
+![Stock Market Project](images/Architecture.jpg)
 
 The stock market generates **massive volumes of data every second**, making it critical to extract, transform, and load (ETL) this data in real time for analysis and decision-making. This project automates data ingestion from front-end APIs, applies transformations, and stores the processed data in AWS S3. By optimizing data workflows, the system reduces processing time by **60%**, ensuring end-users have access to actionable insights in real time.
 
