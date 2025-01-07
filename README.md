@@ -15,9 +15,9 @@ I hold a **Master of Science in Computer Science** from Wright State University,
 
 ## 🛠️ Technical Skills
 
-- **Tech Stack:** Informatica, Kafka, Docker, Unix, Control-M, Tableau, Power BI, Amazon Web Services (EC2, S3, Glue, RDS, Athena), Azure, Hadoop, Hive, Databricks, Snowflake.
+- **Tech Stack:** Informatica, Kafka, Docker, Unix, Tableau, Power BI, Amazon Web Services (EC2, S3, Glue, RDS, Athena), Azure, Hadoop, Hive, Databricks, Snowflake.
 - **Programming Languages:** Python, SQL, R, Scala, MySQL, PostgreSQL, MongoDB, BTEQ scripting.
-- **Tools and Frameworks:** Apache Airflow, JIRA, Machine Learning (Scikit-learn, Pandas, NumPy).
+- **Tools and Frameworks:** Apache Airflow, Control-M, JIRA, Machine Learning (Scikit-learn, Pandas, NumPy).
 
 ---
 
@@ -38,7 +38,6 @@ Ride-sharing platforms like Uber rely heavily on **real-time data processing** t
 ---
 
 ### [Information Retrieval System](https://github.com/your-github/info-retrieval-system)
-![Information Retrieval Project](path/to/info-retrieval-image.jpg)
 
 In the age of information overload, finding relevant data quickly is paramount. This project implements an **information retrieval system** using machine learning models for classification and clustering. By leveraging advanced algorithms, the system retrieves relevant documents with high precision and recall, optimizing the search experience and significantly reducing the time to find critical information.
 
@@ -54,7 +53,7 @@ In the age of information overload, finding relevant data quickly is paramount. 
 
 ## 📂 Download My Resume
 
-📄 [Download Resume](path/to/Naveen_Reddy_Tumu_Resume.pdf)
+📄 [Download Resume](images/Naveen_Reddy.docx)
 
 ---
 
