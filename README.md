@@ -31,7 +31,7 @@ The stock market generates **massive volumes of data every second**, making it c
 ---
 
 ### [Uber Data Pipeline](https://github.com/your-github/uber-data-pipeline)
-![Uber Data Pipeline Project](path/to/uber-data-pipeline-image.jpg)
+![Uber Data Pipeline Project](images/Architecture.PNG)
 
 Ride-sharing platforms like Uber rely heavily on **real-time data processing** to ensure seamless user experiences and operational efficiency. This project involves a scalable ETL pipeline designed to ingest, transform, and load data from Uber's front-end systems into SQL Server. The pipeline enables **real-time reporting** and supports data-driven decisions, ensuring system reliability and operational effectiveness.
 
