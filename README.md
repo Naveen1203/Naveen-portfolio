@@ -60,8 +60,8 @@ In the age of information overload, finding relevant data quickly is paramount. 
 
 ## 🔗 Let's Connect
 
-- **GitHub:** [naveenreddy12](https://github.com/naveenreddy12)  
-- **LinkedIn:** [Naveen Reddy Tumu](https://www.linkedin.com/in/naveenreddytumu)  
+- **GitHub:** [naveenreddy12](https://github.com/Naveen1203)  
+- **LinkedIn:** [Naveen Reddy Tumu](https://www.linkedin.com/in/naveen-tumu-a4327b1b2/)  
 - **Email:** [naveenreddy121510@gmail.com](mailto:naveenreddy121510@gmail.com)  
 - **Phone:** +1 (513)-318-8915  
 
