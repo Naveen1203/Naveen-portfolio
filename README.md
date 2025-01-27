@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I’m a **Senior Data Engineer** with over 6+ years of experience in designing, optimizing, and implementing scalable data pipelines. I have worked with industry leaders like **Verizon**, **Anthem Inc**, and **American Express**, contributing to critical data engineering initiatives that improved performance and reduced processing times. My expertise spans a wide range of technologies, including **Python**, **SQL**, **PySpark**, **Snowflake**, and **AWS**, along with a deep understanding of ETL workflows, big data processing, and cloud platforms.  
+I’m a **Data Engineer** with over 6 years of experience in designing, optimizing, and implementing scalable data pipelines. I have worked with industry leaders like **Verizon**, **Anthem Inc**, and **American Express**, contributing to critical data engineering initiatives that improved performance and reduced processing times. My expertise spans a wide range of technologies, including **Python**, **SQL**, **PySpark**, **Snowflake**, and **AWS**, along with a deep understanding of ETL workflows, big data processing, and cloud platforms.  
 
 I hold a **Master of Science in Computer Science** from Wright State University, Ohio, and a **Bachelor of Technology in Computer Science** from Malla Reddy College of Engineering, Hyderabad. My educational background and professional experience make me a well-rounded data engineer passionate about building innovative, data-driven solutions.
 
